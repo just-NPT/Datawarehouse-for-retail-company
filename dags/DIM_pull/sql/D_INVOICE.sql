@@ -1,0 +1,1 @@
+SELECT invoice_id, code, updated_at, modification_count, status, issue_on, created_on, org, total_value, total_quantity, src_stock_code, vendor_id, payment_type, note_type, channel, total_discount, seq, src_ancestors, sales_order, so_chung_tu, src_stock, invoice

@@ -1,0 +1,1 @@
+SELECT ma_kenh_ban, ma_san_pham, gia, vat, ap_dung_tu, nguon FROM MDM.gia_ban_vat;

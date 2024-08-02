@@ -1,0 +1,1 @@
+SELECT ma_khu_vuc, ten_khu_vuc FROM MDM.khu_vuc;

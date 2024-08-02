@@ -1,0 +1,5 @@
+CREATE TABLE mdm.ht_dong_goi 
+(
+    MA_HT_DONG_GOI TEXT PRIMARY KEY,
+    TEN_HT_DONG_GOI TEXT
+);

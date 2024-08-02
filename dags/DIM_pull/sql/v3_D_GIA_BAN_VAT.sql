@@ -1,0 +1,1 @@
+SELECT None FROM v3.gia_ban_vat;

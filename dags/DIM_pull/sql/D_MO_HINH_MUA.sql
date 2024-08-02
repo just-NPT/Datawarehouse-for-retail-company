@@ -1,0 +1,1 @@
+SELECT ma_mo_hinh_mua, ten_mo_hinh_mua FROM MDM.mo_hinh_mua;

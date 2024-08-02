@@ -1,0 +1,1 @@
+SELECT ma_trang_thai, ten_trang_thai, mo_ta FROM MDM.trang_thai_kho;

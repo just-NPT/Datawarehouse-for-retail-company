@@ -1,0 +1,6 @@
+MA_TRANG_THAI,TRANG_THAI,MO_TA
+PS0001,Chờ duyệt,Sản phẩm được liệt kê trong danh sách nhưng chưa được các bên liên quan phê duyệt
+PS0002,Được duyệt - Chưa bán,Sản phẩm đã được duyệt nhưng chưa đưa ra bán trên thị trường
+PS0003,Sản phẩm mới,- Sản phẩm đã được duyệt và bắt đầu đưa vào kênh bán- Thời gian bán trong kênh < 1 năm
+PS0004,Đang bán,- Sản phẩm đã được duyệt và bắt đầu đưa vào kênh bán- Thời gian bán trong kênh > 1 năm
+PS0005,Dừng bán,Sản phẩm đã dừng bán

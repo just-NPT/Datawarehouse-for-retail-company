@@ -1,0 +1,1 @@
+SELECT ma_packsize, ten_packsize FROM MDM.packsize;

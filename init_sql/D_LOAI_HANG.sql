@@ -1,0 +1,6 @@
+CREATE TABLE mdm.loai_hang 
+(
+    MA_LOAI_HANG TEXT PRIMARY KEY,
+    TEN_LOAI_HANG TEXT,
+    MO_TA TEXT
+);

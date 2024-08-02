@@ -1,0 +1,1 @@
+SELECT None FROM v3.nhom_san_pham;

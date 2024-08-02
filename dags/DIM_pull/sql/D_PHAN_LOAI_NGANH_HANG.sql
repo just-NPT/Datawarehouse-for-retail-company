@@ -1,0 +1,1 @@
+SELECT ma_pl_nganh_hang, ten_pl_nganh_hang FROM MDM.phan_loai_nganh_hang;

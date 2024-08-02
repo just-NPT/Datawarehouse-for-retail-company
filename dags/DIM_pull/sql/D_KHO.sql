@@ -1,0 +1,1 @@
+SELECT ma_kho, id_kho_v1, id_kho_v2, ten_kho, loai_hinh_kho, level, ma_kho_cha, gps, dien_thoai, dia_chi, ma_khu_vuc, ghi_chu, ma_trang_thai FROM MDM.kho;

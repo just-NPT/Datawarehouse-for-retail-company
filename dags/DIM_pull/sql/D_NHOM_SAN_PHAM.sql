@@ -1,0 +1,1 @@
+SELECT ma_nhom_san_pham, ten_nhom_san_pham, ma_nhom_san_pham_cha FROM MDM.nhom_san_pham;

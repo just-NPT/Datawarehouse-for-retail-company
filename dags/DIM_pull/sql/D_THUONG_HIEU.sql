@@ -1,0 +1,1 @@
+SELECT ma_thuong_hieu, ten_thuong_hieu FROM MDM.thuong_hieu;

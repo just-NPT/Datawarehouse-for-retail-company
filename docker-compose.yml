@@ -1,0 +1,116 @@
+version: "3.8"
+x-common:
+  &common
+  image: airflow-custom:latest
+  user: "${AIRFLOW_UID}:0"
+  env_file:
+    - .env
+  volumes:
+    - ./dags:/opt/airflow/dags
+    - ./logs:/opt/airflow/logs
+    - ./plugins:/opt/airflow/plugins
+    - /var/run/docker.sock:/var/run/docker.sock
+
+x-depends-on:
+  &depends-on
+  depends_on:
+    postgres:
+      condition: service_healthy
+    airflow-init:
+      condition: service_completed_successfully
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: postgres
+    ports:
+      - "25432:5432"
+    healthcheck:
+      test: [ "CMD", "pg_isready", "-U", "airflow" ]
+      interval: 5s
+      retries: 5
+    env_file:
+      - .env
+    networks:
+      - prjIII_net
+
+  postgres_db:
+    image: postgres:15
+    container_name: postgres_db
+    ports: 
+      - 15432:5432
+    environment:
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_DB: mydb
+    networks:
+      - prjIII_net
+    volumes:
+       - postgres_data:/var/lib/postgresql/data
+  
+  mongodb:
+    image: mongo:5.0.4
+    container_name: mongodb
+    ports:
+      - 27017:27017
+    volumes:
+      - mongodb-data:/data/db
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_ROOT_PASSWORD=password
+    restart: always
+    networks:
+      - prjIII_net
+
+  scheduler:
+    <<: [ *common, *depends-on ]
+    container_name: airflow-scheduler
+    command: scheduler
+    restart: on-failure
+    ports:
+      - "8793:8793"
+    networks:
+      - prjIII_net
+
+  webserver:
+    <<: [ *common, *depends-on ]
+    container_name: airflow-webserver
+    restart: always
+    command: webserver
+    ports:
+      - "8080:8080"
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "curl",
+          "--fail",
+          "http://localhost:8080/health"
+        ]
+      interval: 30s
+      timeout: 30s
+      retries: 5
+    networks:
+      - prjIII_net
+
+  airflow-init:
+    <<: *common
+    container_name: airflow-init
+    entrypoint: /bin/bash
+    command:
+      - -c
+      - |
+        mkdir -p /sources/logs /sources/dags /sources/plugins
+        chown -R "${AIRFLOW_UID}:0" /sources/{logs,dags,plugins}
+        exec /entrypoint airflow version
+    networks:
+      - prjIII_net
+
+networks:
+  prjIII_net:
+    external: true
+
+volumes:
+  postgres_data:
+  mongodb-data:
+

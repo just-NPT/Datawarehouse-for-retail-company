@@ -1,0 +1,1 @@
+SELECT ma_nguon_goc, ma_vach, ten_nguon_goc FROM MDM.nguon_goc_sp;

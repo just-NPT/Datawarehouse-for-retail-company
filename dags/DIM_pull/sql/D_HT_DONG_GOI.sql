@@ -1,0 +1,1 @@
+SELECT ma_ht_dong_goi, ten_ht_dong_goi FROM MDM.ht_dong_goi;

@@ -1,0 +1,5 @@
+CREATE TABLE mdm.packsize 
+(
+    MA_PACKSIZE TEXT PRIMARY KEY,
+    TEN_PACKSIZE TEXT
+);

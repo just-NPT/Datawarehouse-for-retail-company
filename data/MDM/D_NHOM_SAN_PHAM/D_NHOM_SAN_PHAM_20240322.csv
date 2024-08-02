@@ -1,0 +1,421 @@
+MA_NHOM_SAN_PHAM,TEN_NHOM_SAN_PHAM,MA_NHOM_SAN_PHAM_CHA
+PC0001,Chưa phân loại,PG0001
+PC0002,Áo mưa,PG0024
+PC0003,Âu nhựa,PG0032
+PC0004,Bàn chải đánh răng,PG0006
+PC0005,Bàn chải răng,PG0006
+PC0006,"Bàn, ghế nhựa",PG0032
+PC0007,Băng dính,PG0018
+PC0008,Băng vệ sinh,PG0022
+PC0009,Bánh dẻo,PG0026
+PC0010,Bánh nướng,PG0026
+PC0011,Bánh tết,PG0025
+PC0012,Bát đĩa melamin,PG0032
+PC0013,Bát đĩa nhựa,PG0032
+PC0014,Bát đĩa thìa sứ,PG0046
+PC0015,Bát đĩa thủy tinh,PG0046
+PC0016,Bìa ACCO,PG0019
+PC0017,Bình đá nhựa,PG0032
+PC0018,Bình nước nhựa,PG0032
+PC0019,Bộ chăn ga gối,PG0008
+PC0020,Bộ quà sứ,PG0046
+PC0021,Bộ ướp lạnh rượu,PG0032
+PC0022,Bông tắm,PG0004
+PC0023,Bột cacao,PG0047
+PC0024,Bột canh,PG0020
+PC0025,Bột giặt,PG0021
+PC0026,Bột ngũ cốc uống liền,PG0016
+PC0027,Bột sữa bắp,PG0003
+PC0028,"Bút mực, bút bi, bút chì",PG0010
+PC0029,"Bút xóa, bút lông dầu",PG0010
+PC0030,Ca cốc nhựa,PG0032
+PC0031,Cá hộp,PG0012
+PC0032,Cà phê rang cháy,PG0047
+PC0033,Cháo,PG0045
+PC0034,Chảo rán các loại,PG0011
+PC0035,Cọ rửa nhà bếp,PG0011
+PC0036,Cơ xương khớp,PG0027
+PC0037,Dao cạo râu,PG0004
+PC0038,"Dập ghim, ghim, kẹp",PG0018
+PC0039,Dầu ăn khác,PG0009
+PC0040,Dầu đậu nành,PG0009
+PC0041,Dầu gội,PG0007
+PC0042,Dầu hướng dương,PG0009
+PC0043,Dầu ngô,PG0009
+PC0044,Dầu xả,PG0007
+PC0045,Dây tắm,PG0004
+PC0046,Đề kháng miễn dịch,PG0043
+PC0047,Đèn điện,PG0036
+PC0048,Diệt côn trùng,PG0029
+PC0049,"Đồ nhựa, Melamine khác",PG0032
+PC0050,Đồ uống không cồn,PG0034
+PC0051,Đồ uống tết,PG0025
+PC0052,Dụng cụ vắt cam chanh,PG0011
+PC0053,Dung dịch rửa tay khô,PG0038
+PC0054,Dung dịch sát khuẩn,PG0005
+PC0055,Dung dịch vệ sinh phụ nữ,PG0005
+PC0056,Đường,PG0020
+PC0057,Dưỡng da,PG0005
+PC0058,Gel diệt khuẩn,PG0038
+PC0059,Gel rửa tay khô,PG0038
+PC0060,Giấy lau tay,PG0022
+PC0061,Giấy thấm dầu,PG0005
+PC0062,Giấy vệ sinh,PG0022
+PC0063,Giỏ làn nhựa,PG0032
+PC0064,Giỏ quà/ Hộp quà tết,PG0025
+PC0065,Giỏ quà/ Hộp quà trung thu,PG0026
+PC0066,Hạt nêm,PG0020
+PC0067,"Hạt sấy, hoa quả sấy tết",PG0025
+PC0068,Hô hấp ho xoang,PG0027
+PC0069,"Hỗ trợ tiêu hóa, gan, mật",PG0043
+PC0070,Hộp đựng giấy,PG0032
+PC0071,Hộp đựng nước rửa tay,PG0032
+PC0072,Hộp nhựa các loại,PG0032
+PC0073,Jambon,PG0012
+PC0074,Kem chống nắng,PG0005
+PC0075,Kem đánh răng,PG0006
+PC0076,Kem dưỡng thể,PG0005
+PC0077,Kem sữa đặc,PG0040
+PC0078,Kẹo tết,PG0025
+PC0079,Kéo văn phòng,PG0018
+PC0080,Khăn ăn,PG0022
+PC0081,Khăn mặt,PG0028
+PC0082,Khăn rút,PG0022
+PC0083,Khăn ướt,PG0022
+PC0084,Khay làm đá nhựa,PG0032
+PC0085,Khay nhựa,PG0032
+PC0086,Lăn khử mùi,PG0035
+PC0087,Lồng bàn nhựa,PG0032
+PC0088,Ly cốc thủy tinh,PG0046
+PC0089,Máy ép trái cây,PG0030
+PC0090,Mì chính,PG0020
+PC0091,Muối hạt,PG0020
+PC0092,Muối tinh,PG0020
+PC0093,Mứt tết/ Ô mai tết,PG0025
+PC0094,Nhuộm tóc,PG0007
+PC0095,Nồi chiên không dầu,PG0033
+PC0096,Nước chấm,PG0020
+PC0097,Nước giặt,PG0021
+PC0098,Nước hoa,PG0035
+PC0099,Nước Kvass,PG0034
+PC0100,Nước lau kính,PG0041
+PC0101,Nước lau sàn,PG0041
+PC0102,Nước mắm,PG0020
+PC0103,Nước ngọt không ga,PG0034
+PC0104,Nước rửa chén,PG0041
+PC0105,Nước rửa tay,PG0005
+PC0106,Nước tăng lực,PG0034
+PC0107,Nước tẩy quần áo,PG0021
+PC0108,Nước tinh khiết,PG0034
+PC0109,Nước tương,PG0020
+PC0110,Nước xả vải,PG0021
+PC0111,Pate,PG0012
+PC0112,Phấn trang điểm,PG0037
+PC0113,"Rổ, rá, giỏ nhựa",PG0032
+PC0114,Rượu bia tết,PG0025
+PC0115,"Rượu trắng, Vodka",PG0015
+PC0116,Rượu truyền thống,PG0015
+PC0117,Sản phẩm khác,PG0031
+PC0118,Sản phẩm tết khác,PG0025
+PC0119,Sổ sách,PG0023
+PC0120,Sữa bột người già,PG0039
+PC0121,Sữa đặc có đường,PG0040
+PC0122,Sữa dưỡng,PG0005
+PC0123,Sữa rửa mặt,PG0005
+PC0124,Sữa tắm,PG0005
+PC0125,Tã/bỉm,PG0017
+PC0126,Tăm bông,PG0022
+PC0127,Tạo kiểu tóc,PG0007
+PC0128,Tất nam,PG0013
+PC0129,Tẩy bồn cầu,PG0041
+PC0130,Tẩy đa năng,PG0041
+PC0131,Tẩy nhà bếp,PG0041
+PC0132,Tẩy nhà tắm,PG0041
+PC0133,"Thần kinh, não",PG0043
+PC0134,Thìa muỗng dĩa nhựa,PG0032
+PC0135,Thiết bị khác,PG0042
+PC0136,Thông cống,PG0041
+PC0137,Thớt các loại,PG0011
+PC0138,Thực phẩm khô khác,PG0045
+PC0139,Thực phẩm từ Ong,PG0044
+PC0140,Thực phẩm từ Yến,PG0044
+PC0141,"Thước kẻ, hộp bút, bảng",PG0010
+PC0142,Trà chức năng,PG0047
+PC0143,Trà hòa tan,PG0047
+PC0144,Trà truyền thống,PG0047
+PC0145,Trà túi lọc,PG0047
+PC0146,Trái cây nhập khẩu,PG0048
+PC0147,Trứng cá muối,PG0012
+PC0148,Túi đựng quà,PG0002
+PC0149,Túi giấy,PG0023
+PC0150,Túi lì xì,PG0025
+PC0151,"Túi nilon, màng bọc các loại",PG0011
+PC0152,Túi quà tặng,PG0002
+PC0153,Túi tài liệu,PG0019
+PC0154,Tương cà,PG0020
+PC0155,Tương ớt,PG0020
+PC0156,Ủ tóc,PG0007
+PC0157,Văn phòng phẩm khác,PG0018
+PC0158,Vỏ hộp quà,PG0002
+PC0159,Xà bông,PG0005
+PC0160,"Xô, thùng, chậu nhựa",PG0032
+PC0161,Xốt Mayonnaise,PG0020
+PC0162,Xốt mù tạt,PG0020
+PC0163,"Xúc xích, lạp xưởng",PG0014
+PC0164,Sữa hạt,PG0049
+PC0165,Hỗ trợ làm đẹp khác,PG0050
+PC0166,Hỗ trợ làm đẹp tóc,PG0050
+PC0167,Hỗ trợ làm đẹp da,PG0050
+PC0168,Sữa tươi tiệt trùng,PG0049
+PC0169,Sữa chua uống,PG0051
+PC0170,Nước sữa,PG0049
+PC0171,Sữa chua ăn,PG0051
+PC0172,Sữa tươi thanh trùng,PG0049
+PC0173,Sữa trái cây,PG0049
+PC0174,Kem,PG0052
+PC0175,Quà lưu niệm khác,PG0053
+PC0176,Mũ bảo hiểm,PG0054
+PC0177,Bánh khác,PG0055
+PC0178,Kẹo cứng,PG0056
+PC0179,Rau ăn củ,PG0057
+PC0180,Dầu nhớt,PG0054
+PC0181,"Đồ nóng rán, chiên",PG0058
+PC0182,"Đồ nóng súp, canh",PG0058
+PC0183,Điện gia dụng khác,PG0059
+PC0184,Bếp điện,PG0060
+PC0185,Tạp dề,PG0061
+PC0186,Bánh quy và trứng giòn,PG0025
+PC0187,Bánh mềm,PG0025
+PC0188,Bánh xốp và ốc quế,PG0025
+PC0189,Bánh gạo và ngũ cốc,PG0055
+PC0190,Rau ăn quả,PG0057
+PC0191,Bánh truyền thống,PG0025
+PC0192,Mứt bí,PG0062
+PC0193,Kẹo mềm,PG0056
+PC0194,Thạch rau câu,PG0063
+PC0195,Hoa quả sấy,PG0064
+PC0196,Hạt các loại,PG0025
+PC0197,Thẻ cào điện thoại,PG0065
+PC0198,Găng tay/ bịt mắt,PG0066
+PC0199,Hương thờ,PG0067
+PC0200,Mứt tết,PG0025
+PC0201,Thuốc lá truyền thống,PG0068
+PC0202,Snack dạng miếng,PG0064
+PC0203,Kẹo chocolate,PG0056
+PC0204,Hộp quà,PG0069
+PC0205,Bánh pie và mochi,PG0025
+PC0206,Túi xách,PG0070
+PC0207,Quần short nữ,PG0066
+PC0208,Mứt gừng,PG0025
+PC0209,Áo thun cổ tròn/ cổ tim nam,PG0071
+PC0210,Trang phục nữ khác,PG0066
+PC0211,Quần short nam,PG0071
+PC0212,Nho khô,PG0064
+PC0213,Bếp ga đôi,PG0060
+PC0214,Máy lọc nước,PG0072
+PC0215,Rau ăn lá,PG0057
+PC0216,Thịt nguội,PG0014
+PC0217,Thẻ sim điện thoại,PG0065
+PC0218,Trứng gà,PG0073
+PC0219,Thẻ chíp VETC,PG0065
+PC0220,Bánh ăn kiêng,PG0055
+PC0221,Sữa uống lên men,PG0051
+PC0222,Lồng đèn,PG0074
+PC0223,Kem ốc quế,PG0052
+PC0224,Kem cây,PG0052
+PC0225,Sữa chua uống men sống,PG0051
+PC0226,Các loại thạch khác,PG0063
+PC0227,Hỗ trợ tăng và giảm cân,PG0027
+PC0228,Hàng khác,PG0075
+PC0229,Xe điều khiển pin thường,PG0076
+PC0230,Đồ chơi bé trai khác,PG0076
+PC0231,Hộp xếp hình,PG0077
+PC0232,Sữa bột khác,PG0039
+PC0233,Phô mai,PG0003
+PC0234,Mắm tôm,PG0020
+PC0235,Gạo,PG0045
+PC0236,Bún,PG0045
+PC0237,"Nui, mì các loại",PG0045
+PC0238,"Phở, bánh đa",PG0045
+PC0239,Tim mạch,PG0043
+PC0240,Săn chắc da,PG0005
+PC0241,Hỗ trợ sinh lý nội tiết tố,PG0043
+PC0242,Mặt nạ dưỡng da,PG0005
+PC0243,Nước súc miệng,PG0006
+PC0244,Dầu dưỡng,PG0007
+PC0245,"Thận, tiền liệt tuyến",PG0027
+PC0246,Chống nám da,PG0005
+PC0247,Hỗ trợ điều trị Gout,PG0027
+PC0248,Hỗ trợ điều trị tiểu đường,PG0027
+PC0249,"Khăn lau, Khăn bếp",PG0028
+PC0250,Tẩy lồng giặt,PG0041
+PC0251,Kem tẩy lông,PG0004
+PC0252,Nước hoa quả,PG0034
+PC0253,Sữa bột trẻ em,PG0039
+PC0254,Bột ăn dặm,PG0003
+PC0255,Các loại bột gia vị,PG0020
+PC0256,Điện thoại bàn,PG0042
+PC0257,Miến,PG0045
+PC0258,Trái cây địa phương khác,PG0048
+PC0259,Phồng tôm,PG0045
+PC0260,Dầu gạo,PG0009
+PC0261,Nước ngọt có ga,PG0034
+PC0262,Bia vàng,PG0015
+PC0263,Cà phê tan,PG0047
+PC0264,Trái cây cắt sẵn,PG0048
+PC0265,Khác,PG0020
+PC0266,Ngũ cốc,PG0045
+PC0267,Dầu lạc,PG0009
+PC0268,Bột sắn,PG0045
+PC0269,Tinh dầu thơm,PG0029
+PC0270,Bơ,PG0003
+PC0271,Hộp bánh trung thu,PG0026
+PC0272,Máy xay thịt,PG0030
+PC0273,Xoong nồi các loại,PG0011
+PC0274,Thịt hộp,PG0012
+PC0275,Đồ hộp khác,PG0012
+PC0276,Khẩu trang,PG0022
+PC0277,Ấm siêu tốc,PG0033
+PC0278,bột gạo,PG0045
+PC0279,Mứt dừa,PG0025
+PC0280,Mứt lạc,PG0025
+PC0281,Mứt sen,PG0025
+PC0282,Ô mai,PG0025
+PC0283,Cốc chén ấm sứ,PG0046
+PC0284,Rượu vang,PG0015
+PC0285,"Sát khuẩn, đuổi côn trùng khác",PG0038
+PC0286,Bao bì hàng Tết,PG0025
+PC0287,"Combo hàng Thực phẩm, Gia vị",PG0009
+PC0288,Trái cây miền Tây,PG0048
+PC0289,Dầu hào,PG0020
+PC0290,Thìa dĩa muỗng đũa các loại,PG0011
+PC0291,Khăn tắm,PG0028
+PC0292,Bình lọ thủy tinh các loại,PG0046
+PC0293,Kính chống giọt bắn,PG0024
+PC0294,Áo lót,PG0013
+PC0295,Đồ uống khác,PG0016
+PC0296,Thực phẩm ăn kiêng,PG0044
+PC0297,Nước siro,PG0034
+PC0298,"Sáp thơm, túi thơm",PG0029
+PC0299,Phong bì,PG0023
+PC0300,"Quạt điện, quạt hơi nước",PG0036
+PC0301,"Bô lau nhà, cây lau nhà",PG0024
+PC0302,Găng tay,PG0024
+PC0303,Combo hàng Chăm sóc cá nhân,PG0005
+PC0304,Cà phê nguyên hạt,PG0047
+PC0305,Dầu ôliu,PG0009
+PC0306,"Phụ kiện đèn, sạc pin",PG0036
+PC0307,Bìa kẹp hồ sơ,PG0018
+PC0308,Đuổi côn trùng,PG0029
+PC0309,Nước xịt phòng,PG0029
+PC0310,Nước hồng sâm,PG0044
+PC0311,Nước đông trùng hạ thảo,PG0044
+PC0312,Mật ong,PG0020
+PC0313,Các loại nước giải khát khác,PG0034
+PC0314,Dao rọc giấy,PG0018
+PC0315,"Giấy văn phòng, giấy photo",PG0023
+PC0316,Điện thoại di động,PG0042
+PC0317,Bao bì hàng Trung thu,PG0026
+PC0318,Chưa phân loại,PG0001
+PC0319,Dụng cụ văn phòng khác,PG0018
+PG0001,Chưa phân loại,PI0001
+PG0002,Bao bì hàng mùa vụ,PI0011
+PG0003,Các sản phẩm từ sữa,PI0014
+PG0004,Chăm sóc cá nhân khác,PI0003
+PG0005,Chăm sóc da,PI0003
+PG0006,Chăm sóc răng miệng,PI0003
+PG0007,Chăm sóc tóc,PI0003
+PG0008,"Chăn, màn, ga, gối",PI0002
+PG0009,Dầu ăn,PI0018
+PG0010,Đồ dùng học sinh,PI0013
+PG0011,Đồ dùng nhà bếp,PI0007
+PG0012,Đồ hộp,PI0018
+PG0013,Đồ lót đồ ngủ nam,PI0010
+PG0014,Đồ nguội,PI0016
+PG0015,Đồ uống có cồn,PI0009
+PG0016,Đồ uống khác,PI0009
+PG0017,Đồ vệ sinh cho bé,PI0008
+PG0018,Dụng cụ văn phòng,PI0013
+PG0019,Files,PI0013
+PG0020,Gia vị,PI0018
+PG0021,"Giặt, Xả, Tẩy quần áo",PI0004
+PG0022,Giấy & Bông,PI0003
+PG0023,Giấy & sản phẩm từ giấy,PI0013
+PG0024,Hàng tạp phẩm,PI0007
+PG0025,Hàng tết,PI0011
+PG0026,Hàng Trung Thu,PI0011
+PG0027,Hỗ trợ điều trị,PI0005
+PG0028,"Khăn, áo choàng các loại",PI0002
+PG0029,Khử mùi & diệt đuổi côn trùng,PI0004
+PG0030,"Máy xay, máy ép",PI0006
+PG0031,Nhóm hàng khác,PI0012
+PG0032,"Nhựa, Melamine",PI0007
+PG0033,"Nồi điện, ấm đun, bình thủy",PI0006
+PG0034,Nước giải khát,PI0009
+PG0035,"Nước hoa, khử mùi",PI0003
+PG0036,"Quạt điện, đèn điện,pin",PI0006
+PG0037,Sản phẩm làm đẹp,PI0003
+PG0038,"Sát khuẩn, đuổi côn trùng",PI0003
+PG0039,Sữa bột,PI0014
+PG0040,Sữa đặc,PI0014
+PG0041,Tẩy rửa gia dụng,PI0004
+PG0042,Thiết bị viễn thông,PI0015
+PG0043,Thực phẩm chức năng,PI0005
+PG0044,Thực phẩm dinh dưỡng,PI0005
+PG0045,Thực phẩm khô,PI0018
+PG0046,Thủy tinh gốm sứ,PI0007
+PG0047,"Trà, cà phê, cacao",PI0009
+PG0048,Trái cây,PI0017
+PG0049,Sữa nước,PI0014
+PG0050,Thực phẩm hỗ trợ làm đẹp,PI0005
+PG0051,Sữa chua,PI0014
+PG0052,Kem,PI0021
+PG0053,Đồ lưu niệm,PI0022
+PG0054,Phụ kiện xe đạp xe máy,PI0020
+PG0055,Bánh các loại,PI0019
+PG0056,Kẹo các loại,PI0019
+PG0057,Rau củ quả,PI0017
+PG0058,Đồ nóng,PI0016
+PG0059,Điện gia dụng khác,PI0006
+PG0060,Bếp các loại,PI0006
+PG0061,"Thảm, đồ dùng gia đình",PI0002
+PG0062,Mứt,PI0019
+PG0063,Thạch,PI0019
+PG0064,Đồ ăn vặt,PI0019
+PG0065,Phụ kiện viễn thông,PI0015
+PG0066,Trang phục nữ,PI0010
+PG0067,Đồ dùng 1 lần,PI0007
+PG0068,Thuốc lá,PI0009
+PG0069,Quà tặng,PI0013
+PG0070,Phụ kiện thời trang,PI0010
+PG0071,Trang phục nam,PI0010
+PG0072,Lọc nước,PI0006
+PG0073,Trứng,PI0017
+PG0074,Trang trí lễ hội,PI0022
+PG0075,Hàng khác,PI0023
+PG0076,Đồ chơi bé trai,PI0022
+PG0077,Đồ chơi giáo dục,PI0022
+PG0078,Chưa phân loại,PI0001
+PI0001,Chưa phân loại
+PI0002,"Bông, vải, sợi"
+PI0003,Chăm sóc cá nhân
+PI0004,Chăm sóc gia đình
+PI0005,Chăm sóc sức khỏe
+PI0006,Điện gia dụng
+PI0007,Đồ dùng gia đình
+PI0008,"Đồ trẻ em, sơ sinh"
+PI0009,"Đồ uống, thuốc lá"
+PI0010,May mặc thời trang
+PI0011,Mùa vụ
+PI0012,Ngành hàng khác
+PI0013,Sách truyện và văn phòng phẩm
+PI0014,Sữa & các sản phẩm từ sữa
+PI0015,Thiết bị viễn thông và phụ kiện
+PI0016,Thực phẩm chế biến
+PI0017,Thực phẩm tươi sống
+PI0018,"Thực phẩm, Gia vị"
+PI0019,Bánh kẹo và các đồ ăn vặt
+PI0020,Phụ kiện & dụng cụ sửa chữa
+PI0021,Hàng đông lạnh
+PI0022,Đồ chơi
+PI0023,Hàng khác

@@ -1,0 +1,5 @@
+CREATE TABLE mdm.thuong_hieu 
+(
+    MA_THUONG_HIEU TEXT PRIMARY KEY,
+    TEN_THUONG_HIEU TEXT
+);

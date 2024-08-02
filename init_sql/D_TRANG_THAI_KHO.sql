@@ -1,0 +1,6 @@
+CREATE TABLE mdm.trang_thai_kho 
+(
+    MA_TRANG_THAI TEXT PRIMARY KEY,
+    TEN_TRANG_THAI TEXT,
+    MO_TA TEXT
+);

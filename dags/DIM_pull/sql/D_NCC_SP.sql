@@ -1,0 +1,1 @@
+SELECT ma_ncc, ten_dk_kinh_doanh, ten_viet_tat, loai_ncc, mst, sdt, dia_chi, ghi_chu FROM MDM.ncc_sp;

@@ -1,0 +1,1 @@
+SELECT ma_dvt, ten_dvt FROM MDM.don_vi_tinh;
