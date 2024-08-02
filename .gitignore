@@ -1,6 +1,6 @@
 logs/
 plugins/
 __pycache__/
-table_metadatas.csv
-test.py
-test2.py
+./table_metadatas.csv
+./test.py
+./test2.py
